@@ -1,0 +1,6 @@
+C:\VCStudio\Projects\SQLProject\SQLProject\bin\x86\Debug\SQLProject.exe
+C:\VCStudio\Projects\SQLProject\SQLProject\obj\x86\Debug\SQLProject.exe
+C:\COBOLClass\Projects\SQLProject\SQLProject\bin\x86\Debug\SQLProject.exe
+C:\COBOLClass\Projects\SQLProject\SQLProject\obj\x86\Debug\SQLProject.exe
+C:\COBOLClass\Projects\15_01_SQLProject\SQLProject\bin\x86\Debug\SQLProject.exe
+C:\COBOLClass\Projects\15_01_SQLProject\SQLProject\obj\x86\Debug\SQLProject.exe
